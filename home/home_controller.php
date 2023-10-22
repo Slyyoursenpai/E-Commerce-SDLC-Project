@@ -1,8 +1,11 @@
-        <?php
-        include '../components/connect.php';
-        include 'home_model.php';
-        include '../components/wishlist_cart.php';
-        ?>
+      <?php
+            ob_start();
+            session_start();
+            include '../components/connect.php';
+            include 'home_model.php';
+            include '../components/wishlist_cart.php';
+            ob_end_clean();
+      ?>
 
     <?php
 
