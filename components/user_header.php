@@ -76,7 +76,7 @@
          ?>
          <!-- When signed in  -->
          <p><?= $fetch_profile["name"]; ?></p>
-         <a href="update_user.php" class="btn">Update Profile</a>
+         <a href="/shop3/update_user.php" class="btn">Update Profile</a>
          <div class="flex-btn">
             <a href="/shop3/user_register.php" class="option-btn">Register</a>
             <a href="/shop3/user_login.php" class="option-btn">Login</a>
