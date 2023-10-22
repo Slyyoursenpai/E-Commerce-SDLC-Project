@@ -56,7 +56,7 @@
          <!-- Navbar buttons -->
         <div id="menu-btn" class="fas fa-bars"></div>
 
-        <a href="/shop3/search/search_page.php"><i class="fas fa-search"></i></a>
+        <a href="/shop3/search/search_page_view.php"><i class="fas fa-search"></i></a>
         
         <a href="/shop3/wishlist.php"><i class="fas fa-heart"></i><span>(<?= $total_wishlist_counts;?>)</span></a>
 
