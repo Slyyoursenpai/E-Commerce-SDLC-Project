@@ -1,0 +1,1 @@
+tests for user stories 3, 4, 5 (mahirul).
