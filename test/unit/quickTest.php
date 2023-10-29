@@ -17,7 +17,7 @@ class quickTest extends TestCase {
        include '/shop3/components/connect.php';
 
        // Now, include the code you want to test (replace with the correct path)
-       include '/shop3/quic_view/quick_view_model.php';
+       include '/shop3/quick_view/quick_view_model.php';
 
         // Set up your database connection or mock here.
         // For example, you can create a mock PDO instance.
