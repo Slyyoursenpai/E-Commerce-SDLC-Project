@@ -1,5 +1,4 @@
-# CSE327.8_Project_Group_3
-Project for CSE327 Section 8, Group 3, Summer 2023
+E-Commerce Website built for a project based on SDLC and Software Project Management
 
 // Check Wiki for reports
 
